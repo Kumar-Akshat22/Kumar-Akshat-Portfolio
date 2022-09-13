@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Akshat &#8211; Portfolio</title>
+	<atom:link href="https://kumar-akshat22.github.io/author/akshat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kumar-akshat22.github.io</link>
+	<description>KnowAboutAkshat</description>
+	<lastBuildDate>Sun, 11 Sep 2022 14:50:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Learn Python</title>
+		<link>https://kumar-akshat22.github.io/2022/09/11/learn-python/</link>
+					<comments>https://kumar-akshat22.github.io/2022/09/11/learn-python/#respond</comments>
+		
+		<dc:creator><![CDATA[Akshat]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 14:44:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://kumar-akshat22.github.io/?p=139</guid>
+
+					<description><![CDATA[Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="139" class="elementor elementor-139">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3a127cc2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a127cc2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-57045057" data-id="57045057" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7648eb58 elementor-widget elementor-widget-text-editor" data-id="7648eb58" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Below are some facts about Python Programming Language:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Python is currently the most widely used multi-purpose, high-level programming language.</li><li>Python allows programming in Object-Oriented and Procedural paradigms.</li><li>Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.</li><li>Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.</li><li>The biggest strength of Python is huge collection of standard library which can be used for the following:<ul><li><a href="https://www.geeksforgeeks.org/machine-learning/" rel="noreferrer noopener" target="_blank">Machine Learning</a></li><li>GUI Applications (like&nbsp;<a href="https://www.geeksforgeeks.org/kivy-tutorial/" rel="noreferrer noopener" target="_blank">Kivy</a>, Tkinter, PyQt etc. )</li><li>Web frameworks like&nbsp;<a href="https://www.geeksforgeeks.org/django-tutorial/" rel="noreferrer noopener" target="_blank">Django</a>&nbsp;(used by YouTube, Instagram, Dropbox)</li><li>Image processing (like&nbsp;<a href="https://www.geeksforgeeks.org/opencv-python-tutorial/" rel="noreferrer noopener" target="_blank">OpenCV</a>, Pillow)</li><li>Web scraping (like Scrapy, BeautifulSoup, Selenium)</li><li>Test frameworks</li><li>Multimedia</li><li>Scientific computing</li><li>Text processing and many more..</li></ul></li></ol>
+<!-- /wp:list -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://kumar-akshat22.github.io/2022/09/11/learn-python/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn JavaScript</title>
+		<link>https://kumar-akshat22.github.io/2022/09/11/hello-world/</link>
+					<comments>https://kumar-akshat22.github.io/2022/09/11/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Akshat]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 12:38:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://kumar-akshat22.github.io/?p=1</guid>
+
+					<description><![CDATA[JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>JavaScript</strong>&nbsp;is the world most popular lightweight, interpreted compiled programming language. It is also known as scripting language for web pages. It is well-known for the development of web pages, many non-browser environments also use it. JavaScript can be used for&nbsp;<strong><a rel="noreferrer noopener" href="https://www.geeksforgeeks.org/server-side-client-side-programming/" target="_blank">Client-side</a></strong>&nbsp;developments as well as&nbsp;<strong><a rel="noreferrer noopener" href="https://www.geeksforgeeks.org/server-side-client-side-programming/" target="_blank">Server-side</a></strong>&nbsp;developments.</p>
+
+
+
+<p>JavaScript can be added to your HTML file in&nbsp;<a href="https://www.geeksforgeeks.org/where-to-put-javascript-in-an-html-document/" rel="noreferrer noopener" target="_blank">two ways</a>:</p>
+
+
+
+<ul><li><strong>Internal JS:</strong>&nbsp;We can add JavaScript directly to our HTML file by writing the code inside the &lt;script&gt; tag. The &lt;script&gt; tag can either be placed inside the &lt;head&gt; or the &lt;body&gt; tag according to the requirement.</li><li><strong>External JS:</strong>&nbsp;We can write JavaScript code in other file having an extension .js and then link this file inside the &lt;head&gt; tag of the HTML file in which we want to add this code.</li></ul>
+
+
+
+<p><strong>Are JavaScript and HTML the same?</strong></p>
+
+
+
+<ul><li>JavaScript is an advanced programming language that makes web pages more interactive and dynamic whereas HTML is a standard markup language that provides the primary structure of a website.</li><li>JavaScript simply adds dynamic content to websites to make them look good and HTML work on the look of the website without the interactive effects and all.</li><li>JavaScript manipulates the content to create dynamic web pages whereas HTML pages are static which means the content cannot be changed.</li><li>JavaScript is not cross-browser compatible whereas HTML is cross-browser compatible.</li><li>JavaScript can be embedded inside HTML but HTML can not be embedded inside JavaScript.</li></ul>
+
+
+
+<p><strong>What is JavaScript used for?</strong></p>
+
+
+
+<ul><li><strong>Web pages with interactive elements:&nbsp;</strong>User interaction with web pages is enabled through JavaScript. On a web page, JavaScript has essentially no bounds.</li><li><strong>Developing online and mobile applications:</strong>&nbsp;For web and mobile app development, developers can employ a variety of JavaScript frameworks.</li><li><strong>Creating web servers and server applications:</strong>&nbsp;Aside from websites and apps, developers may use JavaScript to create simple web servers and Node.js to construct backend infrastructure.</li><li><strong>Game Development:</strong>&nbsp;Browser games can also be made using JavaScript. Beginning developers can use these to hone their JavaScript skills.</li></ul>
+
+
+
+<p><strong>What can we build using JavaScript ?</strong><br>JavaScript is a widely-used programming language. Given below are some domains/products that can be built using JavaScript:</p>
+
+
+
+<ul><li><strong>Websites:</strong>&nbsp;JavaScript helps us to add behavior of our website. It helps users to interact with the website. For eg. clicking on buttons, saving details, uploading details on the website, etc.</li><li><strong>Web Servers:</strong>&nbsp;We can make robust server applications using JavaScript. To be precise we use JavaScript frameworks like Node.js and Express.js to build these servers.</li><li><strong>Game Development:</strong>&nbsp;In Game Development industry, JavaScript is used widely. With the addition of HTML5 Canvas, it’s now possible to make 2D and 3D games in JavaScript very efficiently.</li><li><strong>3D Drawings:</strong>&nbsp;JavaScript in addition with HTML Canvas is used to make three-dimensional graphics.</li><li><strong>Mobile Apps:</strong>&nbsp;Mobile applications are the most popular modes of communicating these days. JavaScript also used to design mobile applications. There are many JavaScript frameworks using which we can make android, IOS, and hybrid apps.</li><li><strong>Smartwatch Apps:</strong>&nbsp;The popular smartwatch maker Pebble has created Pebble.js, a small JavaScript framework that allows a developer to create an application for the Pebble line of watches in JavaScript.</li></ul>
+
+
+
+<p><strong>Why to learn JavaScript ?</strong></p>
+
+
+
+<p>JavaScript is the most popular and hence the most loved language around the globe. Apart from this, there are abundant reasons to learn it. Below are a listing of few important points:</p>
+
+
+
+<ul><li><strong>No need of compilers:</strong>&nbsp;Since JavaScript is an interpreted language, therefore it does not need any compiler for compilations.</li><li><strong>Used both Client and Server-side:</strong>&nbsp;Earlier JavaScript was used to build client-side applications only, but with the evolution of its frameworks namely Node.js and Express.js, it is now widely used for building server-side applications too.</li><li><strong>Helps to build a complete solution:</strong>&nbsp;As we saw, JavaScript is widely used in both client and server-side applications, therefore it helps us to build an end-to-end solution to a given problem.</li><li><strong>Used everywhere:</strong>&nbsp;JavaScript is so loved because it can be used anywhere. It can be used to develop websites, games or mobile apps, etc.</li><li><strong>Huge community support:</strong>&nbsp;JavaScript has a huge community of users and mentors who love this language and take it’s legacy forward.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kumar-akshat22.github.io/2022/09/11/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
